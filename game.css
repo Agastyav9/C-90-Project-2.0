@@ -1,0 +1,39 @@
+body
+{
+	
+	text-align:center;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+
+#number1
+{
+	width: 100%;
+}
+
+#number2
+{
+	width: 100%;
+}
+
+#pa
+{
+	float: left;
+	margin-left: 200px;
+	background-color: white;
+	color: navy;
+	padding: 15px;
+	
+}
+
+
+
